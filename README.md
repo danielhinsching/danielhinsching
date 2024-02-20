@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/danielhinsching">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&bg_color=30,141424,ffa500&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&bg_color=30,141424,141424&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/danielhinsching">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/danielhinsching/danielhinsching"/>
