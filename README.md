@@ -17,7 +17,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielhinsching&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/danielhinsching/danielhinsching)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielhinsching&bg_color=141424&color=ffa500&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/danielhinsching/danielhinsching)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,10 +30,3 @@
 ##
 
 
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/danielhinsching/)
-<p><img src="https://profile-counter.glitch.me/{danielhinsching}/count.svg" /></p> 
-
-</div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
