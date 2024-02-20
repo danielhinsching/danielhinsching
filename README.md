@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
-<h2 align="center" style="color: #e83d84;">Banana é bom</h2>
 <div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+dos+Santos+Hinsching;I'm+17+years+old;I+am+from+Joinville,+SC;👨‍🏫+I’m+currently+studing+at+IFC-Campus+Araquari;🏭;Be+Welcome!+:%29)](https://git.io/typing-svg)
