@@ -1,14 +1,6 @@
-<div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+dos+Santos+Hinsching;I'm+17+years+old;I+am+from+Joinville,+SC;👨‍🏫+I’m+currently+studing+at+IFC-Campus+Araquari;🏭;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-</div>
-
-
-
 <div align="center">
   <a href="https://github.com/danielhinsching">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&bg_color=30,ffa500,ffa500&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/danielhinsching">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/danielhinsching/danielhinsching"/>
