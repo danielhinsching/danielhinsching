@@ -5,6 +5,9 @@ Aprendendo novas linguagens.
 
 Fico em disposição para contato: danielsantoshinsching@gmail.com
 
+![Octocat](https://github.com/username/repository/raw/main/octocat.png)
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=danielhinsching&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![danielhinsching](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block width: 45%"><br>
