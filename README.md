@@ -13,5 +13,3 @@ Fico em disposição para contato: danielsantoshinsching@gmail.com
   <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img
-[![octocat-1744119940022](https://github.com/user-attachments/assets/4ca4bf55-abcf-47ac-901c-e4f930a94113)]
