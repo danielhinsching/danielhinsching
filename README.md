@@ -5,8 +5,7 @@ Aprendendo novas linguagens.
 
 Fico em disposição para contato: danielsantoshinsching@gmail.com
 
-![Octocat](https://github.com/username/repository/raw/main/octocat.png)
-
+<img src="https://github.com/danielhinsching/danielhinsching/blob/main/octocat.png" alt="Octocat" width="300"/>
 
 [![card](https://github-readme-stats.vercel.app/api?username=danielhinsching&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![danielhinsching](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,3 +15,4 @@ Fico em disposição para contato: danielsantoshinsching@gmail.com
   <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
