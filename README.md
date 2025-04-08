@@ -1,7 +1,8 @@
 
 
 ##
-
+[![card](https://github-readme-stats.vercel.app/api?username=danielhinsching&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatas-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
