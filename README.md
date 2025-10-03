@@ -9,7 +9,7 @@ Passionate about learning new languages and technologies to create innovative so
 
 - Email: [danielsantoshinsching@gmail.com](mailto:danielsantoshinsching@gmail.com)  
 - GitHub: [danielhinsching](https://github.com/danielhinsching)  
-- LinkedIn: [daniel-hinsching](https://www.linkedin.com/in/your-linkedin)  
+- LinkedIn: [daniel-hinsching](https://www.linkedin.com/in/daniel-hinsching/)  
 
 ---
 
