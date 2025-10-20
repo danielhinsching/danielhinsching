@@ -15,21 +15,22 @@ Passionate about learning new languages and technologies to create innovative so
 
 ## 🛠️ Skills & Technologies
 
-**Front-end:**  
+**Front-end / Mobile:**  
 <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 
-**Back-end / Mobile:**  
+**Back-end:**  
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-<img align="center" alt="ESP32" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp8266/esp8266-original.svg">
+
 
 **Research / Robotics:**  
 - Academic projects with sensors, motors, and mobile app integration  
 - Dynamometers, force measurement, and device automation
+<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<img align="center" alt="ESP32" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp8266/esp8266-original.svg">
 
 ---
 
