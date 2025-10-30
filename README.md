@@ -60,12 +60,16 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&theme=dark" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&hide=html&layout=compact&theme=dark" alt="Top Languages"/>
+  </a>
 </div>
+
 
 ---
 
