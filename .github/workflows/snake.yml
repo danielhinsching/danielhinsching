@@ -15,6 +15,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-custom.svg?color_snake=00d4ff&color_dots[0]=0a0f1e&color_dots[1]=0d2137&color_dots[2]=0a5c8a&color_dots[3]=0088cc&color_dots[4]=00d4ff
+            dist/github-contribution-grid-snake-custom.svg?color_snake=00d4ff&color_dots%5B0%5D=0a0f1e&color_dots%5B1%5D=0d2137&color_dots%5B2%5D=0a5c8a&color_dots%5B3%5D=0088cc&color_dots%5B4%5D=00d4ff
       - uses: crazy-max/ghaction-github-pages@v3
         with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
