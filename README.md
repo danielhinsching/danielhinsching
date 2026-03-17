@@ -1,78 +1,88 @@
-<h1 align="center">👋 Hello! I'm <strong>Daniel Hinsching</strong></h1>
-
-<p align="center">
-  <em>Computer Technician in Internet Systems at the Instituto Federal Catarinense</em><br>
-  Developer of <strong>robotics research projects</strong> and <strong>mobile applications</strong>.<br>
-  Passionate about learning new languages and technologies to create innovative solutions.
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:danielsantoshinsching@gmail.com">📧 Email</a> •
-  <a href="https://github.com/danielhinsching">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/daniel-hinsching/">🔗 LinkedIn</a>
-</p>
-
----
-
-## 🛠️ Skills & Technologies
-
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-  ![ESP32](https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white)
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Daniel+Hinsching+%F0%9F%91%8B;Backend+Developer+%7C+IoT+Researcher;Building+things+that+matter)](https://git.io/typing-svg)
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00d4ff,100:0a0f1e&height=120&section=header&animation=fadeIn" width="100%"/>
+ 
 </div>
-
+ 
 ---
-
-## ⚙️ Detailed Stack
-
-### 🖥️ Front-end / Mobile
-<div>
-  <img alt="HTML5" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="VueJS" height="40" style="margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-</div>
-
-### ⚙️ Back-end
-<div>
-  <img alt="Python" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Django" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img alt="MySQL" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-### 🤖 Research / Robotics
-<div>
-  <p>Academic projects with sensors, motors, and mobile app integration.<br>
-  Focus on dynamometers, force measurement, and device automation.</p>
-  <img alt="C++" height="40" style="margin: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-
+ 
+## About Me
+ 
+```python
+daniel = {
+    "name": "Daniel dos Santos Hinsching",
+    "age": 19,
+    "education": "Bachelor's in Information Systems @ IFC Araquari",
+    "background": "Computer Technician in Internet Systems",
+    "focus": ["Backend Development", "IoT & Embedded Systems", "Research"],
+    "currently": "Building a grip-strength dynamometer with ESP32 🦾",
+    "goal": "Open Source Contributor"
+}
+```
+ 
 ---
-## 📊 GitHub Stats
+ 
+## Tech Stack
+ 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&theme=dark" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&hide=html&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
+ 
+**Backend**
+ 
+![Python](https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Django](https://img.shields.io/badge/Django-0a0f1e?style=for-the-badge&logo=django&logoColor=00d4ff)
+![MySQL](https://img.shields.io/badge/MySQL-0a0f1e?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+ 
+**Frontend**
+ 
+![Vue.js](https://img.shields.io/badge/Vue.js-0a0f1e?style=for-the-badge&logo=vue.js&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=for-the-badge&logo=css3&logoColor=00d4ff)
+ 
+**Embedded / Research**
+ 
+![C++](https://img.shields.io/badge/C++-0a0f1e?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
+![ESP32](https://img.shields.io/badge/ESP32-0a0f1e?style=for-the-badge&logo=espressif&logoColor=00d4ff)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-0a0f1e?style=for-the-badge&logo=platformio&logoColor=00d4ff)
+ 
 </div>
-
-
+ 
 ---
-
+ 
+## GitHub Stats
+ 
 <div align="center">
-  <img src="https://github.com/danielhinsching/danielhinsching/blob/main/octocat.png" alt="Octocat" width="300"/>
+ 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielhinsching&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhinsching&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00d4ff&text_color=ffffff"/>
+ 
+</div>
+ 
+---
+ 
+## Contribution Activity
+ 
+<div align="center">
+ 
+![snake animation](https://raw.githubusercontent.com/danielhinsching/danielhinsching/output/github-contribution-grid-snake-dark.svg)
+ 
+</div>
+ 
+---
+ 
+## Connect
+ 
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/daniel-dos-santos-hinsching-782416348/)
+[![Email](https://img.shields.io/badge/Email-0a0f1e?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:danielsantoshinsching@gmail.com)
+ 
+</div>
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00d4ff,100:0a0f1e&height=80&section=footer" width="100%"/>
+ 
+*Built with love by **danielhinsching***
 </div>
