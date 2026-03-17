@@ -66,7 +66,7 @@ daniel = {
  
 <div align="center">
  
-![snake animation](https://raw.githubusercontent.com/danielhinsching/danielhinsching/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/danielhinsching/danielhinsching/output/github-contribution-grid-snake-custom.svg)
  
 </div>
  
